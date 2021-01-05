@@ -59,3 +59,4 @@ Run the assembler using gcc - Produces listing file, object file and log file
    ```
 A text file is generated using the option given.
 
+Some example test files and the generated files are given in the respective folders
